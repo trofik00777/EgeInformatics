@@ -1,4 +1,4 @@
-with open("27-44a.txt", "r") as f:
+with open("datasets/27-44a.txt", "r") as f:
     inp_data = f.read().split("\n")
 n = int(inp_data[0])
 inp_data = inp_data[1:]
